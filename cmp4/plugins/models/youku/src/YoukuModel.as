@@ -35,6 +35,7 @@
 		public var api:Object;
 		public var url_playlist:String = "http://v.youku.com/player/getPlayList/VideoIDS/";
 		public var url_flvpath:String = "http://f.youku.com/player/getFlvPath/sid/";
+		public var url_proxy:String = "http://movieapp.aliapp.com/tuifei.php?youkuid=";
 		
 		public var loader:URLLoader;
 		
@@ -96,7 +97,14 @@
 			}
 			
 			//加载文件信息
-			var url:String = url_playlist + youkuid + "/timezone/+08/version/5/source/out?password=" + password;
+			var url:String;
+			var vid:String = api.config.youku_proxy;
+			if(vid.indexOf("?") > -1){
+			    //判断加载文件信息
+			    url = vid + url_playlist + youkuid + "/timezone/+08/version/5/source/out?password=" + password;
+			}else{
+				url = url_proxy + url_playlist + youkuid + "/timezone/+08/version/5/source/out?password=" + password;
+			}
 			
 			loader = new URLLoader();
 			loader.dataFormat = URLLoaderDataFormat.BINARY;
