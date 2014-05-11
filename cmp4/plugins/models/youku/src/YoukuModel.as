@@ -103,7 +103,7 @@
 			    //判断加载文件信息
 			    url = vid + url_playlist + youkuid + "/timezone/+08/version/5/source/out?password=" + password;
 			}else{
-				url = url_proxy + url_playlist + youkuid + "/timezone/+08/version/5/source/out?password=" + password;
+			    url = url_proxy + url_playlist + youkuid + "/timezone/+08/version/5/source/out?password=" + password;
 			}
 			
 			loader = new URLLoader();
