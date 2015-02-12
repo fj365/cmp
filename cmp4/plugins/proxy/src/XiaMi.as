@@ -9,28 +9,27 @@
 
 	public class XiaMi extends Object {
 		public var api:Object;
-		//
 		private var dataurl:String = "http://www.xiami.com/song/playlist/id/";
-		
+		private var phpurl:String = "http://web.tuifeiapi.com/tuifei.php?url=";
 		public function XiaMi(_api:Object):void {
 			api = _api;
 		}
-		
 		public function callback(id:String, ...rest):void {
 			if (!id) {
 				api.sendEvent("model_error", "没有代理函数的参数值");
 				return;
 			}
-			//
 			api.sendState("connecting");
 			load(id);
 		}
-		
 		private function load(id:String):void {
-			var url:String = dataurl + id;
-			
-			
-			
+			var url:String;
+			var proxy:String = api.config.proxy_handler;
+			if(proxy){
+				url = proxy + dataurl + id;		
+			}else{
+				url = phpurl + dataurl + id;
+			}
 			var loader:URLLoader = new URLLoader();
 			loader.dataFormat = URLLoaderDataFormat.BINARY;
 			loader.addEventListener(IOErrorEvent.IO_ERROR, onError);
@@ -43,9 +42,7 @@
 			} catch (e:Error) {
 				onError();
 			}
-			
 		}
-		
 		private function onError(e:Event = null):void {
 			api.sendEvent("model_error", "加载音乐配置失败");
 		}
@@ -53,23 +50,17 @@
 			
 		}
 		private function onLoaded(e:Event):void {
-			//
 			System.useCodePage = false;
 			var str:String = e.target.data.toString();
 			System.useCodePage = true;
-			// remove namespace
 			str = str.replace("xmlns", "noxmlns");
-			//
 			try {
 				var xml:XML = new XML(str);
 			} catch(e:Error) {
 				onError();
-				//api.tools.output(e);
 				return;
 			}
-			
 			parse(xml);
-			
 		}
 		private function parse(xml:XML):void {
 			var loc:String = xml..location;
@@ -80,24 +71,17 @@
 				api.sendEvent("model_error", "无法获取地址数据");
 				return;
 			}
-			
 			if (src) {
-				
-				//更新播放地址
-				api.item.src = src;
-				api.item.url = src;
-				
-				api.item.lrc = xml..lyric;
-				api.item.bg_video = "{src:" + xml..pic + ", scalemode:1}";
-				
-				//强制用mp3类型模块播放，免得多余的type设置不正确导致问题
-				api.sendEvent("model_change", "mp3");
+				api.item.src = phpurl + src;
+				api.item.url = phpurl + src;
+				api.item.image = phpurl + (xml..pic);
+				api.item.lrc = phpurl + (xml..lyric);
+				api.item.bg_video = "{src:" + phpurl + (xml..album_pic) + ", scalemode:1}";
+				api.sendEvent("model_change", "1");
 				return;
 			}
-			//
 			api.sendEvent("model_error", "无法获取播放地址");
 		}
-		
 		public function getLocation(code:String):String {
 			var len:Number = Number(code.charAt(0));
 			var str:String = code.substring(1);
