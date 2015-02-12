@@ -76,7 +76,7 @@
 				api.item.url = phpurl + src;
 				api.item.image = phpurl + (xml..pic);
 				api.item.lrc = phpurl + (xml..lyric);
-				api.item.bg_video = "{src:" + phpurl + (xml..album_pic) + ", scalemode:1}";
+				api.item.bg_video = "{src:" + phpurl + (xml..album_pic) + ", scalemode:0}";
 				api.sendEvent("model_change", "1");
 				return;
 			}
