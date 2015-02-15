@@ -11,6 +11,7 @@
 		public var api:Object;
 		private var dataurl:String = "http://www.xiami.com/song/playlist/id/";
 		private var phpurl:String = "http://web.tuifeiapi.com/tuifei.php?url=";
+		private var proxy:String;
 		public function XiaMi(_api:Object):void {
 			api = _api;
 		}
@@ -24,7 +25,7 @@
 		}
 		private function load(id:String):void {
 			var url:String;
-			var proxy:String = api.config.proxy_handler;
+			proxy = api.config.proxy_handler;
 			if(proxy){
 				url = proxy + dataurl + id;		
 			}else{
@@ -65,18 +66,33 @@
 		private function parse(xml:XML):void {
 			var loc:String = xml..location;
 			var src:String;
+			var apic:String;
+			var pic:String;
+			var lyric:String;
+			var urc:String;
 			if (loc) {
 				src = getLocation(loc);
 			} else {
 				api.sendEvent("model_error", "无法获取地址数据");
 				return;
 			}
+			if(proxy){
+				urc = proxy + src;
+				pic = proxy + (xml..pic);
+				lyric = proxy + (xml..lyric);
+				apic = proxy + (xml..album_pic);	
+			}else{
+				urc = phpurl + src;
+				pic = phpurl + (xml..pic);
+				lyric = phpurl + (xml..lyric);
+				apic = phpurl + (xml..album_pic);
+			}
 			if (src) {
-				api.item.src = phpurl + src;
-				api.item.url = phpurl + src;
-				api.item.image = phpurl + (xml..pic);
-				api.item.lrc = phpurl + (xml..lyric);
-				api.item.bg_video = "{src:" + phpurl + (xml..album_pic) + ", scalemode:1, repeat:0, xywh:[0C,0C,1B,1B]}";
+				api.item.src = urc;
+				api.item.url = urc;
+				api.item.image = pic;
+				api.item.lrc = lyric;
+				api.item.bg_video = "{src:" + apic + ", scalemode:1, repeat:0, xywh:[0C,0C,1B,1B]}";
 				api.sendEvent("model_change", "1");
 				return;
 			}
