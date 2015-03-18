@@ -95,8 +95,9 @@
 				api.item.bg_video = "{src:" + apic + ", scalemode:1, repeat:0, xywh:[0C,0C,1B,1B]}";
 				api.sendEvent("model_change", "1");
 				return;
+			}else{
+				api.sendEvent("model_error", "无法获取播放地址");
 			}
-			api.sendEvent("model_error", "无法获取播放地址");
 		}
 		public function getLocation(code:String):String {
 			var len:Number = Number(code.charAt(0));
