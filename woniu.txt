@@ -239,3 +239,7 @@ SBS韓國中文,http://wshdl.load.cdn.zhanqi.tv/zqlive/34822_KA3zE.flv
 SKY music,rtmp://flash.supersky.ch/live/supersky/livestream
 lyingman,http://dlhls.cdn.zhanqi.tv/zqlive/36596_HD3eX.m3u8
 越南英文_vtv4,http://211.22.61.109/stc/ch168170.m3u8
+CCTV-央视文化精品,http://221.181.100.24:8088/ws_v/ysjp/ysjp711/711/01.m3u8
+CCTV-女性时尚,http://221.181.100.24:8088/ws_v/nxss/nxss711/711/01.m3u8
+CCTV-电视指南,http://221.181.100.24:8088/ws_v/dszn/dszn711/711/01.m3u8
+CCTV-新科动漫,http://221.181.100.24:8088/ws_w/xkdm/xkdm711/711/01.m3u8
