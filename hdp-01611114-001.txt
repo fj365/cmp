@@ -1,0 +1,174 @@
+看看新闻网 ,http://hls.kksmg.com/iphone/downloads/ch1/index.m3u8
+壹新闻,http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv3/chunklist.m3u8
+新加坡-新传媒,http://tglch8-lh.akamaihd.net/i/channel8_fta@334582/master.m3u8#http://tglchu-lh.akamaihd.net/i/channelu_fta@334583/master.m3u8#http://tglch5-lh.akamaihd.net/i/channel5_fta@334581/master.m3u8
+美国BOOKTV,http://cspan2-lh.akamaihd.net/i/cspan2_1@304728/index_1000_av-p.m3u8
+法国24,http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+美国ABC新闻 ,http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
+意大利天空SKY TG24 ,rtmp://cp49989.live.edgefcs.net/live/streamRM1@2564
+英国天空新闻台,http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
+英国天空新闻台 ,http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
+加拿大CTV-NEWS16,http://ams-lp10.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News18.m3u8
+国外频道     英国BBC-阿拉伯语,http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/index_800_av-p.m3u8?sd=10&rebase=on
+国外频道     美国中文电视,rtmp://media3.sinovision.net:1935/live/livestream
+美國中文電視,http://media3.sinovision.net:1935/live/livestream/playlist.m3u8
+美國中文電視,rtmp://media3.sinovision.net:1935/live/livestream        
+美国中文电视,p2p://207.238.82.30:9926/51d51ec90000b71b87b411362c5d24cd
+美国中文电视,rtmp://media3.sinovision.net:1935/live/livestream
+亚洲联合卫视,http://tv.unbtv.tv/app_2/ls_1.stream/playlist.m3u8
+美国中文电视,rtmp://media3.sinovision.net:1935/live/livestream
+朝鲜日报,rtmp://live.chosun.gscdn.com:1935/live/tvchosun1.stream
+新加坡-新传媒U,http://tglchu-lh.akamaihd.net/i/channelu_fta@334583/master.m3u8
+库尔德斯坦,http://84.244.187.12:1935/live/livestream/playlist.m3u8
+美国国语英文电视,p2p://207.238.82.38:9926/51d51ef70005f5e187b4c63e7c816536
+壹新闻,http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv1/chunklist.m3u8
+壹新闻,http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv2/chunklist.m3u8
+壹新闻,http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv3/chunklist.m3u8
+壹新聞,http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv3/playlist_w.m3u8
+香港TVB互動新聞台,http://box.s-itv.com/flashplay/VJTVPlayer.swf?src=http://218.32.87.201:5021/live/366
+*,http://174.127.67.246/live400/playlist.m3u8
+香港卫视,http://fms.cntv.lxdns.com/live/flv/channel84.flv
+中经电视,rtmp://116.213.200.53/tslsChannelLive/PCG0DuD/live
+宏观卫视,http://mobile.ccdntech.com/live/_definst_/vod62_Live/live1/playlist.m3u8
+亚洲新闻,http://tglcnas-lh.akamaihd.net/i/cnas_fta@334579/master.m3u8
+卫视中文台HD,http://61.216.71.67/sta/ch5168037.m3u8
+三立都会台,http://bcoveliveios-i.akamaihd.net/hls/live/226707/4338955585001/master.m3u8
+东森新闻,http://60.199.188.151/HLS/WG_ETTV-N/index.m3u8
+上海KNEWS,http://hls.live.kksmg.com/live/live24h/playlist.m3u8
+上海新闻综合,http://web-play.pptv.com/web-m3u8-300156.m3u8?type=mpptv&playback=0&kk=dc586f9805af07e1fe0314df9f5b2e83-d855-56985aa8&fwc=0&complete=1&o=m.pptv.com&rcc_id=m.pptv.com&_QUICKTIME_=1
+上海新闻综合HD,http://218.244.147.118:6389/wtvlive/migu2/617290046_5
+新傳媒5,http://tglch5-lh.akamaihd.net/i/channel5_fta@334581/master.m3u8
+新傳媒8,http://tglch8-lh.akamaihd.net/i/channel8_fta@334582/master.m3u8
+耀才财经台(贡献者:007) ,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+*亞太(國語),http://123.108.164.71/etv2/phd926/playlist.m3u8
+耀才財經台,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+财富天下,http://125.88.92.166:30001/PLTV/88888956/224/3221227711/1.m3u8
+东方财经,http://w1.livecache.yicai.com/hls/live/dftv_sd/live.m3u8
+广东新闻,http://125.88.92.166:30001/PLTV/88888956/224/3221227674/1.m3u8
+广东珠江,http://125.88.92.166:30001/PLTV/88888956/224/3221227700/1.m3u8
+广州新闻,rtmp://116.199.115.228/live/gztv_new
+TVBS新闻,http://60.199.188.151/HLS/WG_TVBS-N/index.m3u8
+非凡新闻,http://60.199.188.151/HLS/WG_USTV-N/index.m3u8
+TVBS新聞台,http://bcoveliveios-i.akamaihd.net/hls/live/249639/4862438529001_5/master.m3u8
+TVBS新聞台,http://bcoveliveios-i.akamaihd.net/hls/live/249639/4862438529001_3/master.m3u8
+CCTV1,http://14.18.17.142:9009/live/chid=1
+CCTV-1   综合        【高清】,http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/hdcctv01/.m3u8
+CCTV-1   综合        【高清】,http://183.207.255.190:80/live/program/live/cctv1hd/4000000/mnf.m3u8
+CCTV-1   综合        【高清】,http://183.207.255.190:80/live/program/live/cctv1hd/2300000/mnf.m3u8
+CTV-13 新闻,http://125.88.92.166:30001/PLTV/88888956/224/3221227701/1.m3u8
+CCTV-13 新闻,http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/cctv-13/.m3u8
+CCTV-13 新闻,http://web-play.pptv.com/web-m3u8-300215.m3u8?type=mpptv&playback=0&kk=dc586f9805af07e1fe0314df9f5b2e83-d855-56985aa8&fwc=0&complete=1&o=m.pptv.com&rcc_id=m.pptv.com&_QUICKTIME_=1
+CCTV-13 新闻,http://113.207.0.27/padlive1-cnc.wasu.cn/cctv13/z.m3u8
+美国ucsdtv,rtmp://ucsdtv-wowza.ucsd.edu:1935/live/live_800
+美国BOOKTV,http://cspan2-lh.akamaihd.net/i/cspan2_1@304728/index_1000_av-p.m3u8
+美国航天局NASA,http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_1000_av-p.m3u8
+美国航天局NASA1,http://nasatv-lh.akamaihd.net/i/NASA_103@319271/master.m3u8
+美国NBA MLS,http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
+美国ABC NEWS,http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
+美国WGN,http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_700_av-p.m3u8?sd=10&rebase=on
+美东频道,http://174.127.67.246/live330/playlist.m3u8
+新加坡亚洲新闻,http://tglcnas-lh.akamaihd.net/i/cnas_fta@334579/master.m3u8
+新加坡Channel 8,http://tglch8-lh.akamaihd.net/i/channel8_fta@334582/master.m3u8
+新加坡Channel 5,http://tglch5-lh.akamaihd.net/i/channel5_fta@334581/master.m3u8
+新加坡Channel U,http://tglchu-lh.akamaihd.net/i/channelu_fta@334583/master.m3u8
+arirangTV,rtmp://edge1.everyon.tv/etv1sb/phd36?country=CN&quality=0&channel=phd36&player=embed_b2c&network=pc&p2pupuser=off&domain=everyon&bitrate=1596&server=org&category=2100
+EBS2,http://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/playlist.m3u8
+liveshow,http://wshls4.live.cnlive.com/cdn/liveshow/playlist.m3u8?wsSecret=04c6e040e5d3b7de2858d79e35d24318&wsTime=569ce2a9
+TARA,http://wshdl.load.cdn.zhanqi.tv/zqlive/1285_Zloy4.flv
+阿拉伯alarabiya,http://alarabiya-geo-live.hls.adaptive.level3.net/hls-live/alarabiya-channel01/_definst_/live/stream1.m3u8
+阿拉伯ALJAZEERA,rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live//aljazeera_ara_high
+阿拉伯aljazeera_mubasher,rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live//aljazeera_mubasher2_high
+阿联酋OR,http://173.192.180.122/hls-live/livepkgr/_definst_/liveevent/live_ios.m3u8
+法国24,http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+KoreaTV,rtmp://218.38.152.69:1935/da_live/72136989/mp4:ch001
+澳大利亚ABCNews24,rtmp://cp103653.live.edgefcs.net:1935/live/international_medium@36382
+菲律宾UN,rtmp://livestream01.untvweb.com/public/untvwebstream
+美国University of California TV,rtmp://ucsdtv-wowza.ucsd.edu:1935/live/live_800
+欧洲体育,http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1000.m3u8
+日本NHK世界新闻,http://web-cache.stream.ne.jp/www11/nhkworld-tv/global/222714/live_tv.m3u8
+瑞典4,http://tv4live-i.akamaihd.net/hls/live/200284/akamaihls2/wifi1500_akamaihls2.m3u8?
+瑞士AKTUELLHD,rtmp://tvaktuellr.iptv-playoutcenter.de:1935/tvaktuellr/tvaktuellr.stream_1
+西班牙LA,http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
+牙买加RE,http://univ-i.akamaihd.net/hls/live/222631/group1/playlist.m3u8
+欧洲体育台,http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1000.m3u8
+9VollnaTV,rtmp://176.9.127.102/live/myStream_1
+Ato moto ,mmst://100automoto.tv/100livesport
+意大利天空SKY TG24 ,rtmp://cp49989.live.edgefcs.net/live/streamRM1@2564
+英国天空新闻台,http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
+Tarsus Gune ,rtmp://stream.taksimbilisim.com/tarsusguneytv/bant1  
+The_Florida_Channel,rtmp://webcasting.thefloridachannel.org/live/tvweb1        
+澳大利亚ABCNews24,http://hls.live.kksmg.com/live/live24h/playlist.m3u8
+Arbic,http://92.62.234.221:2222/udp/239.21.1.108:1234
+Family,http://92.62.234.220:2222/udp/239.20.1.101:1234
+CNN,http://61.216.71.67/sta/ch5168036.m3u8
+●凤凰电视台★
+凤凰|凤凰中文,http://14.17.115.9/live/zhongwen.m3u8
+凤凰|凤凰香港,http://14.17.115.9/live/hongkong.m3u8
+凤凰卫视中文HD,http://202.205.93.230:280/99e8f095e48865d9cecff47cd5563763/playlist.m3u8 
+凤凰视频HD,http://14.17.115.8/live/zixun800k.m3u8
+凤凰中文HD,http://218.203.106.12:5580/ysten-business/live/fhchinese/.m3u8
+香港  ■  频道      凤凰中文HD,http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/fhchinese/.m3u8
+香港  ■  频道      凤凰中文HD,http://112.17.0.10:8085/ysten-business/live/fhchinese/yst.m3u8
+香港  ■  频道      凤凰中文,http://202.205.93.230:280/99e8f095e48865d9cecff47cd5563763/playlist.m3u8
+鳳凰資訊,http://202.205.93.230:280/b039f4e32adba3c507423b46e08eece6/playlist.m3u8
+鳳凰衛視中文,http://218.203.106.12:5580/ysten-business/live/fhchinese/yst.m3u8
+鳳凰中文,http://202.205.93.230:280/99e8f095e48865d9cecff47cd5563763/playlist.m3u8
+凤凰中文,http://218.203.106.12:5580/ysten-business/live/fhchinese/.m3u8
+凤凰中文,http://218.203.106.12:5580/ysten-business/live/fhchinese/yst.m3u8
+凤凰中文,http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/fhchinese/.m3u8
+凤凰中文,http://202.205.93.230:280/99e8f095e48865d9cecff47cd5563763/playlist.m3u8
+鳳凰衛視中文HD,http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/fhchinese/.m3u8
+凤凰中文HD,http://218.203.106.12:5580/ysten-business/live/fhchinese/.m3u8
+凤凰中文,http://zv.3gv.ifeng.com/live/zhongwen800k.m3u8
+凤凰中文HD,http://112.17.0.10:8085/ysten-business/live/fhchinese/yst.m3u8
+凤凰中文,http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/fhchinese/.m3u8#http://slave.nx96200.cn:13164/httpdvb/sdfhzw_.m3u8
+凤凰卫视中文HD,http://202.205.93.230:280/99e8f095e48865d9cecff47cd5563763/playlist.m3u8
+凤凰资讯,http://202.205.93.230:280/b039f4e32adba3c507423b46e08eece6/playlist.m3u8
+凤凰卫视资讯,http://live.826pc.com/gehua/sd/live.php?98971
+凤凰资讯,http://zv.3gv.ifeng.com/live/zixun800k.m3u8
+凤凰资讯,http://14.17.115.7/live/zixun800k.m3u8
+凤凰香港,http://119.167.138.8/live/hongkong.m3u8
+凤凰香港,http://zv.3gv.ifeng.com/live/hongkong.m3u8
+凤凰香港,http://zv.3gv.ifeng.com/live/hongkong.m3u8
+凤凰香港,http://zv.3gv.ifeng.com/live/hongkong800k.m3u8
+凤凰视频凤凰香港,http://zv.3gv.ifeng.com/live/hongkong800k.m3u8
+凤凰卫视,http://218.203.106.12:5580/ysten-business/live/fhchinese/yst.m3u8
+凤凰卫视,http://14.17.115.10/live/zhongwen800k.m3u8
+凤凰电影,http://live.tx.starcor.cn/nn_live.Ts?id=FHDYBQ2.5M
+上海KNEWS,http://hls.live.kksmg.com/live/live24h/playlist.m3u8
+●求索高清★
+求索记录高清,http://112.253.38.62:80/livehls1-cnc.wasu.cn/hd_qsjl/z.m3u8
+求索动物高清,http://112.253.38.62:80/livehls1-cnc.wasu.cn/hd_qsdw/z.m3u8
+求索生活高清,http://112.253.38.62:80/livehls1-cnc.wasu.cn/hd_qssh/z.m3u8
+求索科学高清,http://112.253.38.62:80/padlive1-cnc.wasu.cn/hd_qspd/z.m3u8
+求索动物高清,http://60.220.196.154/livehls1-cnc.wasu.cn/hd_qsdw/z.m3u8
+求索记录高清,http://60.220.196.154/livehls1-cnc.wasu.cn/hd_qsjl/z.m3u8
+求索科学高清,http://60.220.196.154/livehls1-cnc.wasu.cn/hd_qspd/z.m3u8
+求索生活高清,http://60.220.196.154/livehls1-cnc.wasu.cn/hd_qssh/z.m3u8
+求索动物高清,http://115.231.20.96/livehls1-cnc.wasu.cn/hd_qsdw/z.m3u8
+求索记录高清,http://115.231.20.96/livehls1-cnc.wasu.cn/hd_qsjl/z.m3u8
+求索科学高清,http://115.231.20.96/livehls1-cnc.wasu.cn/hd_qspd/z.m3u8
+求索生活高清,http://115.231.20.96/livehls1-cnc.wasu.cn/hd_qssh/z.m3u8
+求索动物高清,http://220.194.207.35/livehls1-cnc.wasu.cn/hd_qsdw/z.m3u8
+求索记录高清,http://220.194.207.35/livehls1-cnc.wasu.cn/hd_qsjl/z.m3u8
+求索科学高清,http://220.194.207.35/livehls1-cnc.wasu.cn/hd_qspd/z.m3u8
+求索生活高清,http://220.194.207.35/livehls1-cnc.wasu.cn/hd_qssh/z.m3u8
+求索动物高清,http://59.56.30.158/livehls1-cnc.wasu.cn/hd_qsdw/z.m3u8
+求索记录高清,http://59.56.30.158/livehls1-cnc.wasu.cn/hd_qsjl/z.m3u8
+求索科学高清,http://59.56.30.158/livehls1-cnc.wasu.cn/hd_qspd/z.m3u8
+求索生活高清,http://59.56.30.158/livehls1-cnc.wasu.cn/hd_qssh/z.m3u8
+求索动物高清,http://218.92.209.33/livehls1-cnc.wasu.cn/hd_qsdw/z.m3u8
+求索记录高清,http://218.92.209.33/livehls1-cnc.wasu.cn/hd_qsjl/z.m3u8
+求索科学高清,http://218.92.209.33/livehls1-cnc.wasu.cn/hd_qspd/z.m3u8
+求索生活高清,http://218.92.209.33/livehls1-cnc.wasu.cn/hd_qssh/z.m3u8
+HOT探索纪录,http://222.191.24.5:6610/2/2/ch00000090990000001241/index.m3u8?ispcode=3
+爱奇艺纪录片,http://106.120.175.80:55336/tslive/c24_lb_jilupian_high_t10/c24_lb_jilupian_high_t10.m3u8
+爱奇艺历史秘闻,http://106.120.175.80:55336/tslive/c20_lb_lishimiwen_720P_t10/c20_lb_lishimiwen_720P_t10.m3u8
+爱奇艺科学探索,http://106.120.175.80:55336/tslive/c18_lb_kexuetansuo_720P_t10/c18_lb_kexuetansuo_720P_t10.m3u8
+爱奇艺自然地理,http://106.120.175.80:55336/tslive/c14_lb_zirandili_720P_t10/c14_lb_zirandili_720P_t10.m3u8
+金鹰纪实,http://hlstest.imgo.tv/hva5/index_512k.m3u8
+上海纪实,http://60.220.196.154/livehls1-cnc.wasu.cn/shjs/z.m3u8
+北京纪实,http://112.253.38.62:80/livehls1-cnc.wasu.cn/bjjs/z.m3u8
+北京科教,http://106.120.175.80:55336/tslive/c25_ct_btv3_bjkj_smooth_t10/c25_ct_btv3_bjkj_smooth_t10.m3u8
+环球奇观,http://112.253.38.62:80/livehls2-cnc.wasu.cn/hqqg/z.m3u8
+地理杂志,http://59.46.18.133:8114/lntvch/01000000000000000000000000000134?Fsv_otype=1&FvSeid=&Fsv_filetype=&Fsv_ctype=&Fsv_cid=&Fsv_chan_hls_se_idx=&Fsv_rate_id=&Fsv_TBt=&Fsv_ShiftEnable=&Fsv_ShiftTsp=&Fsv_SV_PARAM1=&Provider_id=&Pcontent_id=1
+科教纪录片,http://fms.cntv.lxdns.com/live/flv/channel178.flv
