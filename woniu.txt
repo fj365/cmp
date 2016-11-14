@@ -67,3 +67,175 @@ FOX娱乐,http://ju3.ottclub.info:443/water/c731.stream/playlist.m3u8
 探索世界,http://ju3.ottclub.info:443/water/c744.stream/playlist.m3u8
 卫视西片,http://ju3.ottclub.info:443/water/c746.stream/playlist.m3u8
 大爱,http://ju3.ottclub.info:443/water/c559.stream/playlist.m3u8
+纬来日本,http://211.22.61.109/sta/323024.m3u8
+纬来戏剧,http://211.22.61.109/sta/323026.m3u8
+国兴卫视,http://211.22.61.109/sta/323028.m3u8
+MTV娱乐HD,http://211.22.61.109/sta/323033.m3u8
+民视HD,http://211.22.61.109/sta/323044.m3u8
+民视新闻,http://211.22.61.109/sta/323045.m3u8
+亚洲综合,http://211.22.61.109/sta/323051.m3u8
+动物星球,http://211.22.61.109/sta/323052.m3u8
+好消息,http://211.22.61.109/sta/323053.m3u8
+中华财经,http://211.22.61.109/sta/323054.m3u8
+生命电视,http://211.22.61.109/sta/323056.m3u8
+宝贝电视,http://211.22.61.109/sta/323057.m3u8
+CN卡通频道,http://211.22.61.109/sta/323058.m3u8
+TCL旅游生活,http://211.22.61.109/sta/323059.m3u8
+AFC美食,http://211.22.61.109/sta/323060.m3u8
+全球财经,http://211.22.61.109/sta/323064.m3u8
+唯心电视HD,http://211.22.61.109/sta/323065.m3u8
+凯亚精致农业,http://211.22.61.109/sta/323066.m3u8
+世界电视,http://211.22.61.109/sta/323068.m3u8
+AMC电影,http://211.22.61.109/sta/323069.m3u8
+日舞电影,http://211.22.61.109/sta/323070.m3u8
+FashionOne时尚,http://211.22.61.109/sta/323071.m3u8
+iconcerts音乐,http://211.22.61.109/sta/323075.m3u8
+台视新闻HD,http://211.22.61.109/sta/323076.m3u8
+古典音乐,http://211.22.61.109/sta/323077.m3u8
+韩国娱乐,http://211.22.61.109/sta/323078.m3u8
+达文西频道,http://211.22.61.109/sta/323079.m3u8
+台视综合,http://211.22.61.109/sta/323083.m3u8
+东森财新闻HD,http://211.22.61.109/sta/323090.m3u8
+东森财经新闻HD,http://211.22.61.109/sta/323091.m3u8
+中天亚洲,http://211.22.61.109/sta/323092.m3u8
+台视财经HD,http://211.22.61.109/sta/323093.m3u8
+台视新闻HD,http://211.22.61.109/sta/323094.m3u8
+人间卫视,http://211.22.61.109/sta/323095.m3u8
+华视HD,http://211.22.61.109/sta/323096.m3u8
+华视新闻资讯,http://211.22.61.109/sta/323097.m3u8
+华视综合娱乐,http://211.22.61.109/sta/323098.m3u8
+中视菁采,http://211.22.61.109/sta/323099.m3u8
+中视HD,http://211.22.61.109/sta/323100.m3u8
+中视经典,http://211.22.61.109/sta/323101.m3u8
+中视新闻,http://211.22.61.109/sta/323102.m3u8
+TVBS综合HD,http://211.22.61.109/sta/323103.m3u8
+TVBS新闻,http://211.22.61.109/sta/323104.m3u8
+TVB8,http://211.22.61.109/sta/323105.m3u8
+博思无限,http://211.22.61.109/stc/168001.m3u8
+博思足球,http://211.22.61.109/stc/168002.m3u8
+博斯魅力,http://211.22.61.109/stc/168003.m3u8
+亚洲旅游,http://211.22.61.109/stc/168004.m3u8
+宝贝少儿,http://211.22.61.109/stc/168005.m3u8
+ITV精选,http://211.22.61.109/stc/168006.m3u8
+龙华偶像,http://211.22.61.109/stc/168007.m3u8
+龙华日韩,http://211.22.61.109/stc/168008.m3u8
+博斯高球,http://211.22.61.109/stc/168009.m3u8
+博斯高球II,http://211.22.61.109/stc/168010.m3u8
+博斯网球,http://211.22.61.109/stc/168011.m3u8
+博斯运动,http://211.22.61.109/stc/168012.m3u8
+龙华卡通,http://211.22.61.109/stc/168013.m3u8
+体育画报,http://211.22.61.109/stc/168014.m3u8
+龙华戏剧,http://211.22.61.109/stc/168015.m3u8
+寰宇新闻,http://211.22.61.109/stc/168016.m3u8
+寰宇新闻二,http://211.22.61.109/stc/168017.m3u8
+梅帝奇交响乐,http://211.22.61.109/stc/168018.m3u8
+博斯无限,http://211.22.61.109/stc/168031.m3u8
+博斯足球,http://211.22.61.109/stc/168032.m3u8
+博斯魅力,http://211.22.61.109/stc/168033.m3u8
+亚洲旅游,http://211.22.61.109/stc/168034.m3u8
+ITV精选,http://211.22.61.109/stc/168036.m3u8
+龙华偶像,http://211.22.61.109/stc/168037.m3u8
+龙华日韩,http://211.22.61.109/stc/168038.m3u8
+博斯高球,http://211.22.61.109/stc/168039.m3u8
+博斯高球II,http://211.22.61.109/stc/168040.m3u8
+博斯网球,http://211.22.61.109/stc/168041.m3u8
+博斯运动,http://211.22.61.109/stc/168042.m3u8
+体育画报,http://211.22.61.109/stc/168044.m3u8
+龙华戏剧,http://211.22.61.109/stc/168045.m3u8
+寰宇新闻,http://211.22.61.109/stc/168046.m3u8
+寰宇新闻二,http://211.22.61.109/stc/168047.m3u8
+梅迪奇交响乐,http://211.22.61.109/stc/168048.m3u8
+靖天卡通,http://211.22.61.109/stc/168154.m3u8
+靖天育乐,http://211.22.61.109/stc/168155.m3u8
+靖天日本,http://211.22.61.109/stc/168156.m3u8
+靖天资讯,http://211.22.61.109/stc/168157.m3u8
+靖洋卡通,http://211.22.61.109/stc/168158.m3u8
+靖天国际,http://211.22.61.109/stc/168159.m3u8
+VIV4,http://211.22.61.109/stc/168160.m3u8
+靖天卡通,http://211.22.61.109/stc/168164.m3u8
+靖天育乐,http://211.22.61.109/stc/168165.m3u8
+靖天日本,http://211.22.61.109/stc/168166.m3u8
+靖天资讯,http://211.22.61.109/stc/168167.m3u8
+靖洋卡通,http://211.22.61.109/stc/168168.m3u8
+靖天国际,http://211.22.61.109/stc/168169.m3u8
+VIV4,http://211.22.61.109/stc/168170.m3u8
+台_6民視HD,http://211.22.61.109/sta/ch323044.m3u8
+台_10中視HD,http://211.22.61.25/sta/ch323100.m3u8
+台_12華視HD,http://211.22.61.109/sta/ch323096.m3u8
+台_15好消息,http://211.22.61.109/sta/ch323053.m3u8
+台_20TLC旅遊生活,http://211.22.61.109/sta/ch323059.m3u8
+台_21動物星球,http://211.22.61.109/sta/ch323052.m3u8
+台_22CN卡通頻道,http://211.22.61.109/sta/ch323058.m3u8
+台_24MOMO親子 ,http://saka24.fansmestar.com/ch024/playlist.m3u8
+台_25YOYO TV,http://211.22.61.109/sta/CH323090.m3u8
+台_27八大第1台 ,http://saka24.fansmestar.com/ch027/playlist.m3u8
+台_29三立台灣 ,http://bcoveliveios-i.akamaihd.net/hls/live/226708/4338955585001/02ldeknk95.m3u8
+台_30三立都會台 ,http://bcoveliveios-i.akamaihd.net/hls/live/226707/4338955585001/02wevfbdd54.m3u8
+台_三立國際,http://saka19.fansmestar.com/ch030/playlist.m3u8
+台_32東森綜合,http://saka14.fansmestar.com/ch032/playlist.m3u8
+台_TVBS,http://211.22.61.109/sta/CH323105.m3u8
+台_42TVBS歡樂台HD,http://bcoveliveios-i.akamaihd.net/hls/live/249639/4862438529001_4/master.m3u8
+台_43緯來戲劇,http://211.22.61.109/sta/CH323026.m3u8
+台_49壹電視新聞,http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv3/chunklist.m3u8
+台_53民視新聞,http://211.22.61.109//sta/CH323045.m3u8
+台_56TVBS HD,http://211.22.61.109/sta/CH323103.m3u8
+台_62東森電影,http://saka14.fansmestar.com/ch062/playlist.m3u8
+台_64龍翔電影,http://saka14.fansmestar.com/ch061/playlist.m3u8
+台_75緯來日本,http://211.22.61.109/sta/ch323024.m3u8
+台_77國興衛視,http://211.22.61.109/sta/CH323028.m3u8
+台_79MTV HD,http://211.22.61.109/sta/ch323033.m3u8
+台_96ANIMAX動漫,http://saka24.fansmestar.com/ch034/playlist.m3u8
+台M asia亞洲綜合台,http://211.22.61.109/sta/ch323051.m3u8
+台M asiaTravel,http://211.22.61.109/stc/ch168004.m3u8
+台M afc亞洲美食,http://211.22.61.109/sta/CH323060.m3u8
+台M amc美國經典電影,http://211.22.61.109/sta/CH323069.m3u8
+台M sundance,http://211.22.61.109/sta/CH323070.m3u8
+台M amc美國經典電影,http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/yangguangstv/.m3u8
+台M 博斯高球,http://211.22.61.109/stc/ch168009.m3u8
+台M 博斯高球2,http://211.22.61.109/stc/ch168010.m3u8
+台M 博斯網球,http://211.22.61.109/stc/ch168011.m3u8
+台M 博斯運動,http://211.22.61.109/stc/ch168012.m3u8
+台M 台_博斯無限,http://211.22.61.109/stc/ch168001.m3u8
+台M 博斯足球,http://211.22.61.109/stc/ch168002.m3u8
+台M 博斯魅力,http://211.22.61.109/stc/ch168003.m3u8
+台M 達文西Davinci,http://211.22.61.109/sta/ch323079.m3u8
+台M edici-arts藝術,http://211.22.61.109/stc/ch168018.m3u8
+台M 靖天卡通台,http://211.22.61.109/stc/ch168164.m3u8
+台M 靖天育樂台,http://211.22.61.109/stc/ch168165.m3u8
+台M 靖天日本台,http://211.22.61.109/stc/ch168166.m3u8
+台M 靖天資訊台,http://211.22.61.109/stc/ch168167.m3u8
+台M 靖洋卡通台,http://211.22.61.109/stc/ch168168.m3u8
+台M 靖天國際台,http://211.22.61.109/stc/ch168169.m3u8
+台M BabyFirst,http://211.22.61.109/stc/ch168005.m3u8
+台M babyTV,http://211.22.61.109/sta/ch323057.m3u8
+台M 龍華電影,http://211.22.61.109/stc/ch168006.m3u8
+台M 龍華卡通,http://211.22.61.109/stc/ch168013.m3u8
+台M 龍華日韓,http://211.22.61.109/stc/ch168008.m3u8
+台M luxe factor,http://211.22.61.109/sta/ch323071.m3u8
+台M iConcerts音樂,http://211.22.61.109/sta/ch323075.m3u8
+好萊塢電影,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hlw_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+SBS韓國中文,http://wshdl.load.cdn.zhanqi.tv/zqlive/34822_KA3zE.flv
+韓國娛樂台,http://211.22.61.109/sta/ch323078.m3u8
+韓國時尚,rtmp://edge2.everyon.tv/etv2/pld24
+韓國娛樂台,http://kk.luoke.net.cn/tw/asbb.php?id=218
+台_中華財經,http://211.22.61.109/sta/CH323054.m3u8
+台_全球財經,http://211.22.61.109/sta/CH323064.m3u8
+台_世界,http://211.22.61.109/sta/ch323068.m3u8
+台_宏觀衛視,http://mobile.ccdntech.com/live/_definst_/vod62_Live/live1/playlist.m3u8
+台_凱亞,http://211.22.61.109/sta/ch323066.m3u8
+台_番薯台,http://210.209.3.1/live/C02DD98E-593E-47A8-905C-3B101183A555?fmt=x264_500K_ts&cpid=admin&size
+台灣宗教_唯心HD,http://211.22.61.109/sta/ch323065.m3u8
+台灣宗教_生命,http://211.22.61.109/sta/ch323056.m3u8
+香港_鳳凰資訊,http://14.17.115.7/live/zixun800k.m3u8
+香港_鳳凰衛視HD,http://218.203.106.12:5580/ysten-business/live/fhchinese/yst.m3u8
+香港_鳳凰視頻,http://14.17.115.10/live/zhongwen800k.m3u8
+小時不斷電 http://dlhls.cdn.zhanqi.tv/zqlive/121900_BHDgs.m3u8
+新唐人,http://174.127.67.246/live400/playlist.m3u8
+亞太第一,rtmp://v1.one-tv.com:1935/live/mpegts.stream
+香港_香港衛視,rtmp://live.hkstv.hk.lxdns.com/live//hks
+美國中文電視,rtmp://media3.sinovision.net:1935/live/livestream
+澳亞衛視,http://live.mastvnet.com/n1rtlHG/500/live.m3u8
+中國_亞洲聯合衛視,http://tv.unbtv.tv/app_2/ls_1.stream/playlist.m3u8
+SKY music,rtmp://flash.supersky.ch/live/supersky/livestream
+lyingman,http://dlhls.cdn.zhanqi.tv/zqlive/36596_HD3eX.m3u8
+越南英文_vtv4,http://211.22.61.109/stc/ch168170.m3u8
